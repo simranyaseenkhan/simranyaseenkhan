@@ -12,8 +12,7 @@ I am passionate about building scalable applications, exploring full-stack devel
 ![Java](https://img.shields.io/badge/-Java-red?logo=openjdk&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=flat-square)  
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=flat-square)![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square)
 
 
 **Databases:**  
